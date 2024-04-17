@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milansinghal2004" alt="milansinghal2004" /></a> </p>
 
-- 🔭 I’m currently working on **a project under Uhackathon 4.0**
+- 🔭 I have worked on **a project related to Face Model Recognition especially related to DivinPro!**
 
 - 🌱 I’m currently learning **Java**
 
