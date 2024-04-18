@@ -7,7 +7,7 @@
 
 - 🔭 I have worked on **a project related to Face Model Recognition especially related to DivinPro!**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Web Dev!**
 
 - 👯 I’m looking to collaborate on **projects**
 
