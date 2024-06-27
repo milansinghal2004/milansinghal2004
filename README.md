@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Milan Singhal! 👋</h1>
-<h3 align="center">A passionate Graphic Designer & Frontend Developer, and a Machine Learning Enthusiast.</h3>
+<h1 align="center">Hi, Milan here! 👋</h1>
+<h3 align="center">A passionate Graphic Designer, Frontend Developer, and Machine Learning Enthusiast.</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=milansinghal2004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
