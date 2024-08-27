@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Unified dashboard for Order Managment in Cloud Kitchen**
+- 🔭 I’m currently working on **Unified dashboard for Order Management in Cloud Kitchen**
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
