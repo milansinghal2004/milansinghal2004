@@ -6,6 +6,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=milansinghal2004&label=Profile%20views&color=0e75b6&style=flat" alt="milansinghal2004" /> </p>
 
+<p align="center"><script src="https://tryhackme.com/badge/1496004"></script></p>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milansinghal2004&theme=darkhub" alt="milansinghal2004" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
