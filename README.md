@@ -4,7 +4,7 @@
   
 <h3 align="center">A passionate Graphic Designer, Frontend Developer, and Machine Learning Enthusiast.</h3> 
 
-<p align="center">
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=milansinghal2004&label=Profile%20views&color=0e75b6&style=flat" alt="milansinghal2004" />
 </p> 
 
