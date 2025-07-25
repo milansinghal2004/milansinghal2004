@@ -22,7 +22,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Unified dashboard for Order Management in Cloud Kitchen**
+- 🔭 I’m currently working on **Stock Prediction and Aomaly Detection** Application.
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 - 👨‍💻 My projects are available at [portfolio-milansinghal.netlify.app](portfolio-milansinghal.netlify.app)
 - 📝 Can also view my Design Portfolio at [https://singhal-miney-portfolio.my.canva.site/](https://singhal-miney-portfolio.my.canva.site/)
