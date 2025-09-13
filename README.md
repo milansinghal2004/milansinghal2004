@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B,+I'm+Milan+Singhal;Graphic+Designer+%7C+Frontend+Developer+%7C+ML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B,+I'm+Milan+Singhal+,+a+ML+Enthusiast;Graphic+Designer+and+Frontend+Developer" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">✨ A passionate Graphic Designer, Frontend Developer, and Machine Learning Enthusiast ✨</h3>
@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://portfolio-milansinghal.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/💻%20Portfolio-green?style=for-the-badge" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/💻%20Portfolio-blue?style=for-the-badge" alt="Portfolio" />
   </a>
   <a href="mailto:singhalmilan92@gmail.com">
     <img src="https://img.shields.io/badge/📧%20Email-red?style=for-the-badge" alt="Email" />
