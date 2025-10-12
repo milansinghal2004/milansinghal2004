@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://portfolio-milansinghal.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/💻%20Portfolio-blue?style=for-the-badge" alt="Portfolio" />
-  </a>
+  </a> 
   <a href="mailto:singhalmilan92@gmail.com">
     <img src="https://img.shields.io/badge/📧%20Email-red?style=for-the-badge" alt="Email" />
   </a>
