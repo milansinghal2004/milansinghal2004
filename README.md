@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B,+I'm+Milan+Singhal+,+a+ML+Enthusiast;Graphic+Designer+and+Frontend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B,+I'm+Milan+Singhal+,+a+ML+Enthusiast;Developer+and+Graphic+Designer" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">✨ A passionate Graphic Designer, Frontend Developer, and Machine Learning Enthusiast ✨</h3>
+<h3 align="center">✨ A passionate AI Engineer, Machine Learning Enthusiast, and Graphic Designer ✨</h3>
 
 ---
 
