@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com? font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B,+I'm+Milan+Singhal+,+a+ML+Enthusiast;Developer+and+Graphic+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B,+I'm+Milan+Singhal+,+a+ML+Enthusiast;Developer+and+Graphic+Designer" alt="Typing SVG"/>
 </h1>
 
 <h3 align="center">✨ A passionate AI Engineer, Machine Learning Enthusiast, and Graphic Designer ✨</h3> 
@@ -27,7 +27,7 @@
 ### 🚀 About Me  
 - 🔭 I’m currently working on **Stock Prediction and Anomaly Detection Application**  
 - 🌱 Learning **Artificial Intelligence & Machine Learning**  
-- 👨‍💻 All of my projects are available at [Projects](https://portfolio-milansinghal.netlify.app/#projects)
+- 👨‍💻 All of my projects are available at [Projects](https://portfolio-milansinghal.netlify.app/#projects) 
 - 💬 Ask me about **Git, HTML/CSS, Figma**  
 - ⚡ Fun fact: I can talk about **cars** all day — from engine specs to futuristic EVs 🚗⚡  
 
