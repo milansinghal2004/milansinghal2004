@@ -56,7 +56,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/singhalmilan92" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://instagram.com/_.simply.milan._" target="blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-  <a href="https://www.hackerrank.com/singhalmilan921" target="blank"><img src="https://skillicons.dev/icons?i=hackerrank" height="40"/></a>
   <a href="https://www.leetcode.com/milan_singhal" target="blank"><img src="https://skillicons.dev/icons?i=leetcode" height="40"/></a>
   <a href="https://auth.geeksforgeeks.org/user/singhalminey" target="blank"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" height="40"/></a>
 </p>
