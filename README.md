@@ -75,3 +75,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=milansinghal2004&show_icons=true&theme=dark" alt="GitHub Stats" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=milansinghal2004&show_icons=true&layout=compact&theme=dark" alt="Top Languages" />
 </p>
+
+
+## My Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[milansinghal2004]/[milansinghal2004]/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[milansinghal2004]/[milansinghal2004]/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[milansinghal2004]/[milansinghal2004]/output/pacman-contribution-graph.svg">
+</picture>
